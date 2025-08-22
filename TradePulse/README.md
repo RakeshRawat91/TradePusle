@@ -1,2 +1,2 @@
-# Zerodha
-Please try to implement the project on your own before proceeding to the lectures &amp; code.
+# TradePulse
+A cutting-edge trading platform designed to mirror the core functionalities of leading brokerage services.
