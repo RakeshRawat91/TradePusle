@@ -1,3 +1,6 @@
+# TradePulse
+A cutting-edge trading platform designed to mirror the core functionalities of leading brokerage services.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
